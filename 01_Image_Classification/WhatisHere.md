@@ -1,0 +1,2 @@
+This specific folder consist of image classification using PyTorch.
+We start to implement first with simple multilayer perceptron (MLP) and then move on to complex architectures like convolutional neural networks (CNNs).
